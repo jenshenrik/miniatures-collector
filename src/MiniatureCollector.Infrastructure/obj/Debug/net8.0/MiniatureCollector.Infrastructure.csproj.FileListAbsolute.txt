@@ -1,0 +1,17 @@
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Infrastructure/bin/Debug/net8.0/MiniatureCollector.Infrastructure.deps.json
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Infrastructure/bin/Debug/net8.0/MiniatureCollector.Infrastructure.dll
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Infrastructure/bin/Debug/net8.0/MiniatureCollector.Infrastructure.pdb
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Infrastructure/bin/Debug/net8.0/MiniatureCollector.Application.dll
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Infrastructure/bin/Debug/net8.0/MiniatureCollector.Domain.dll
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Infrastructure/bin/Debug/net8.0/MiniatureCollector.Application.pdb
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Infrastructure/bin/Debug/net8.0/MiniatureCollector.Domain.pdb
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Infrastructure/obj/Debug/net8.0/MiniatureCollector.Infrastructure.csproj.AssemblyReference.cache
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Infrastructure/obj/Debug/net8.0/MiniatureCollector.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Infrastructure/obj/Debug/net8.0/MiniatureCollector.Infrastructure.AssemblyInfoInputs.cache
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Infrastructure/obj/Debug/net8.0/MiniatureCollector.Infrastructure.AssemblyInfo.cs
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Infrastructure/obj/Debug/net8.0/MiniatureCollector.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Infrastructure/obj/Debug/net8.0/MiniatureCollector.Infrastructure.csproj.CopyComplete
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Infrastructure/obj/Debug/net8.0/MiniatureCollector.Infrastructure.dll
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Infrastructure/obj/Debug/net8.0/refint/MiniatureCollector.Infrastructure.dll
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Infrastructure/obj/Debug/net8.0/MiniatureCollector.Infrastructure.pdb
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Infrastructure/obj/Debug/net8.0/ref/MiniatureCollector.Infrastructure.dll

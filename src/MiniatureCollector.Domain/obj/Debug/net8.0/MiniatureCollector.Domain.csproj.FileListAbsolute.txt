@@ -1,0 +1,12 @@
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Domain/bin/Debug/net8.0/MiniatureCollector.Domain.deps.json
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Domain/bin/Debug/net8.0/MiniatureCollector.Domain.dll
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Domain/bin/Debug/net8.0/MiniatureCollector.Domain.pdb
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Domain/obj/Debug/net8.0/MiniatureCollector.Domain.csproj.AssemblyReference.cache
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Domain/obj/Debug/net8.0/MiniatureCollector.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Domain/obj/Debug/net8.0/MiniatureCollector.Domain.AssemblyInfoInputs.cache
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Domain/obj/Debug/net8.0/MiniatureCollector.Domain.AssemblyInfo.cs
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Domain/obj/Debug/net8.0/MiniatureCollector.Domain.csproj.CoreCompileInputs.cache
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Domain/obj/Debug/net8.0/MiniatureCollector.Domain.dll
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Domain/obj/Debug/net8.0/refint/MiniatureCollector.Domain.dll
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Domain/obj/Debug/net8.0/MiniatureCollector.Domain.pdb
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Domain/obj/Debug/net8.0/ref/MiniatureCollector.Domain.dll

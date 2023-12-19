@@ -1,0 +1,205 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Infrastructure/MiniatureCollector.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Application/MiniatureCollector.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Application/MiniatureCollector.Application.csproj",
+        "projectName": "MiniatureCollector.Application",
+        "projectPath": "/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Application/MiniatureCollector.Application.csproj",
+        "packagesPath": "/Users/dkjehevo/.nuget/packages/",
+        "outputPath": "/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dkjehevo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/LEGO/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Domain/MiniatureCollector.Domain.csproj": {
+                "projectPath": "/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Domain/MiniatureCollector.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Ardalis.Result": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Domain/MiniatureCollector.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Domain/MiniatureCollector.Domain.csproj",
+        "projectName": "MiniatureCollector.Domain",
+        "projectPath": "/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Domain/MiniatureCollector.Domain.csproj",
+        "packagesPath": "/Users/dkjehevo/.nuget/packages/",
+        "outputPath": "/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dkjehevo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/LEGO/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Ardalis.SharedKernel": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Ardalis.SmartEnum": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Ardalis.Specification": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Infrastructure/MiniatureCollector.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Infrastructure/MiniatureCollector.Infrastructure.csproj",
+        "projectName": "MiniatureCollector.Infrastructure",
+        "projectPath": "/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Infrastructure/MiniatureCollector.Infrastructure.csproj",
+        "packagesPath": "/Users/dkjehevo/.nuget/packages/",
+        "outputPath": "/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dkjehevo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/LEGO/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Application/MiniatureCollector.Application.csproj": {
+                "projectPath": "/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Application/MiniatureCollector.Application.csproj"
+              },
+              "/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Domain/MiniatureCollector.Domain.csproj": {
+                "projectPath": "/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Domain/MiniatureCollector.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

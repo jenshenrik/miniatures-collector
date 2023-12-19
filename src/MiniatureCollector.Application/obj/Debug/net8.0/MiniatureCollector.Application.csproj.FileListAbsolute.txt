@@ -1,0 +1,15 @@
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Application/bin/Debug/net8.0/MiniatureCollector.Application.deps.json
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Application/bin/Debug/net8.0/MiniatureCollector.Application.dll
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Application/bin/Debug/net8.0/MiniatureCollector.Application.pdb
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Application/bin/Debug/net8.0/MiniatureCollector.Domain.dll
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Application/bin/Debug/net8.0/MiniatureCollector.Domain.pdb
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Application/obj/Debug/net8.0/MiniatureCollector.Application.csproj.AssemblyReference.cache
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Application/obj/Debug/net8.0/MiniatureCollector.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Application/obj/Debug/net8.0/MiniatureCollector.Application.AssemblyInfoInputs.cache
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Application/obj/Debug/net8.0/MiniatureCollector.Application.AssemblyInfo.cs
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Application/obj/Debug/net8.0/MiniatureCollector.Application.csproj.CoreCompileInputs.cache
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Application/obj/Debug/net8.0/MiniatureCollector.Application.csproj.CopyComplete
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Application/obj/Debug/net8.0/MiniatureCollector.Application.dll
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Application/obj/Debug/net8.0/refint/MiniatureCollector.Application.dll
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Application/obj/Debug/net8.0/MiniatureCollector.Application.pdb
+/Users/dkjehevo/source/personal/MiniatureCollector/src/MiniatureCollector.Application/obj/Debug/net8.0/ref/MiniatureCollector.Application.dll
